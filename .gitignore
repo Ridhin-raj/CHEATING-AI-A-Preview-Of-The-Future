@@ -45,5 +45,5 @@ app.*.map.json
 /android/app/release
 # git add -A 
 # git commit -m ""
-# git pull origin dev 
-# git push origin dev
+# git pull origin main
+# git push origin main
