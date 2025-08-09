@@ -43,3 +43,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# git add -A 
+# git commit -m ""
+# git pull origin dev 
+# git push origin dev
