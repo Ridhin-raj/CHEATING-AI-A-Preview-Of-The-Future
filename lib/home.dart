@@ -32,13 +32,13 @@ class _HomeState extends State<Home> {
                         CircleAvatar(
                           radius: 30,
                           backgroundColor: Colors.amber,
-                          backgroundImage: AssetImage("image/paper.png"),
+                          backgroundImage: AssetImage("image/stone.png"),
                         ),
                         SizedBox(width: 15),
                         CircleAvatar(
                           radius: 30,
                           backgroundColor: Colors.amber,
-                          foregroundImage: AssetImage("image/stone.png"),
+                          foregroundImage: AssetImage("image/paper.png"),
                         ),
                         SizedBox(width: 15),
                         CircleAvatar(
@@ -138,6 +138,6 @@ class _HomeState extends State<Home> {
         ],
       ),
     );
-    ;
+    
   }
 }

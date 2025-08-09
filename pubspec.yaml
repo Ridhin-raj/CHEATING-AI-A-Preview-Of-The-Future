@@ -64,6 +64,8 @@ flutter:
         - image/paper.png
         - image/stone.png
         - image/scissor.png
+        - image/user.png
+        - image/ai.avif
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
