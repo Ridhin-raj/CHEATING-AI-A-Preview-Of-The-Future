@@ -51,14 +51,20 @@ For Software:
 
 
 HERE IT IS THE SPLASH SCREEN IT WAITS FOR 5 SECONDS
+
+
 <img width="382" height="862" alt="image" src="https://github.com/user-attachments/assets/437e34e2-81d7-487f-b91d-e41a11fc708d" />
 
 
 HERE YOU CAN CLICK ELEVATED BUTTON FOR MOVE TO THE NEXT PAGE
+
+
 <img width="376" height="842" alt="image" src="https://github.com/user-attachments/assets/4c1400ab-ba45-473f-a04c-5cc048350896" />
 
 
 GAMING AREA WHERE YOU CAN TEST THE POWER OF AI WHERE YOU CAN TEST IF YOU CAN WIN AGAINST AI
+
+
 <img width="366" height="849" alt="image" src="https://github.com/user-attachments/assets/7e96ae90-2098-4072-a518-42b1a7ecb481" />
 
 
